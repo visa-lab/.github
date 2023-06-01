@@ -5,8 +5,8 @@
 </div>
 
 <div align="justify">
-  
-Virtualization is an enabling technology for creating important new system abstractions and addressing the various challenges faced by today's computing systems. Autonomics are the key to handling the ever-increasing complexity in the computing systems by automatically managing and optimizing the systems. The fundamental goal of the VISA Research Lab is to explore innovative techniques in virtualization and autonomics in order to effectively utilize the resources in large-scale, dynamic, and complex computing systems and to support the efficient, robust, and secure computing of challenging applications from different domains. Currently, our team is focusing on the projects related to cloud computing, high-performance computing, and big data as well as operating systems and storage systems in general.
+
+Virtualization is an enabling technology for creating important new system abstractions and addressing the various challenges faced by today's computing systems. Autonomics are the key to handling the ever-increasing complexity in the computing systems by automatically managing and optimizing the systems. The fundamental goal of the [VISA Research Lab](http://visa.lab.asu.edu/web/) is to explore innovative techniques in virtualization and autonomics in order to effectively utilize the resources in large-scale, dynamic, and complex computing systems and to support the efficient, robust, and secure computing of challenging applications from different domains. Currently, our team is focusing on the projects related to cloud computing, high-performance computing, and big data as well as operating systems and storage systems in general.
 
 We are looking for talented and self-motivated graduate and undergraduate students to join us and work on exciting research problems in leading-edge computer systems, including cloud, big data, HPC, and mobile systems. Students with strong systems knowledge and implementation skills (C/Java programming, Linux/Android kernel development, etc.) would be preferred.
 
@@ -24,4 +24,6 @@ We thank the following external sponsors for their funding support:
 We also thank the following external collaborators for their contributions:
 
 ![image](https://github.com/visa-lab/.github/assets/72571838/2023d257-6407-4174-89bc-444d818641c0)
+  
 </div>
+
