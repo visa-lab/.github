@@ -1,7 +1,7 @@
 <div align="center" style="font-family: Arial, sans-serif; padding: 20px;">
 
   <h1 style="color: #008000; font-size: 2.5em; font-weight: bold; margin-bottom: 5px;">
-    🚀 Welcome to <span style="color: #004d00;">VISA Lab GitHub Organization</span> 🚀
+    Welcome to <span style="color: #004d00;">VISA Lab GitHub Organization</span> 
   </h1>
 
   <p style="font-size: 1.2em; color: #333; max-width: 700px;">
